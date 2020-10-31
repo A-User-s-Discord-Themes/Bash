@@ -1,4 +1,4 @@
-(note: the theme is temporary unmaintained)
+<h3 align=center> <b>NOTE: THIS THEME IS UNMAINTENT DUE TO DESIGN PROBLEMS AND BAD CODE. IF YOU WANNA A MAINTENT VERSION, PLEASE CHECK <a href="https://github.com/A-User-s-Discord-Themes/Bash-v2">BASH v2</a></b> </h3>
 <h1 align=center>Bash</h1>
 
 <p align=center>A minimalist, fully-animated, clean and sexy theme. The best theme for square monitors!</p>
